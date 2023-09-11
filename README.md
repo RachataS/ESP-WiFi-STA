@@ -21,7 +21,7 @@ files that provide set of directives and instructions describing the project's s
 
 Below is short explanation of remaining files in the project folder.
 
-#Output
+# Output
 ```css
 entry 0x40080698
 I (27) boot: ESP-IDF v4.4.5-dirty 2nd stage bootloader
